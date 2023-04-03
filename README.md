@@ -6,7 +6,7 @@ Os Arquivos estão organizados da seguinte forma na pasta principal:
 1- Arquivos usados para apresentação pros profs;
 
 2- Arquivos do site para serem editados e depois fazer o deploy;
-    - Sugiro que usem o netlify que é o único grátis que eu achei (não vão esquecer de upar o site pq isso é coisa de projeto sem tec. info, vulgo os outros grupos); 
+    - Sugiro que usem o netlify que é o único grátis que eu achei (não vão esquecer de upar o site pq isso é coisa de projeto sem tec. info, vulgo os outros grupos);	
     - Tem uma pasta com as fotos dos integrantes que eu usei pra por no rodapé do site, dps tem que jogar os novos integrantes para dentro do HTML;
     - É isso, se vocês souberem o mínimo de desenvolvimento web é de boa, não vai ter mt o que mexer nesse site na minha opnião
     
