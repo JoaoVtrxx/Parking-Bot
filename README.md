@@ -11,7 +11,7 @@ Os Arquivos estão organizados da seguinte forma na pasta principal:
     - É isso, se vocês souberem o mínimo de desenvolvimento web é de boa, não vai ter mt o que mexer nesse site na minha opnião
     
 3- Zip do programa do Parking-Bot.
-    - Esse é um dos mais importantes pq eu sei que só eu tenho ele, pois fui eu quem editei e conectei ele no Real Time Database do Firebase (Nem o Roger tem kkkkk);
+    - Esse é um dos mais importantes pq eu sei que só eu tenho ele, pois fui eu quem editei e conectei ele no Real Time Database do Firebase (Acho que o Roger não tem    esse kkkkk);
     - Login do Firebase já foi enviado ao Thomas, não sei se ele já entrou, mas provavelmente tem que ajeitas as rules.
     - Não sei se querem mudar alguma coisa, mas podem pedir se quiserem e não saberem, voces tem meu zap.
     
