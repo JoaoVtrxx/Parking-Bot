@@ -9,7 +9,7 @@ Os Arquivos estão organizados da seguinte forma na pasta principal:
 
 	2.1 Sugiro que usem o netlify que é o único grátis que eu achei (não vão esquecer de upar o site pq isso é coisa de projeto sem tec. info, vulgo os outros grupos);	
 	2.2 Tem uma pasta com as fotos dos integrantes que eu usei pra por no rodapé do site, dps tem que jogar os novos integrantes para dentro do HTML;
-	2.3 É isso, se vocês souberem o mínimo de desenvolvimento web é de boa, não vai ter mt o que mexer nesse site na minha opnião
+	2.3 É isso, se vocês souberem o mínimo de desenvolvimento web é de boa, não vai ter mt o que mexer nesse site na minha opinião
     
 3- Zip do programa do Parking-Bot.
 
