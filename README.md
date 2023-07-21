@@ -16,5 +16,5 @@ Assim, todos os dados coletados eram armazenados no Realtime DataBase do [Google
 
 #### Colaboradores e Colegas
   - [Lorenzo](https://github.com/LorenzoAntonello1)
-  - [Caetano](https://nãosei/)
+  - [Caetano](https://github.com/CaetanoMatos)
   - [Marcos](https://nãosei/)	
